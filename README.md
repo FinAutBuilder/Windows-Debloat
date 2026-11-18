@@ -9,7 +9,7 @@ Remove Windows 10 and 11 bloat **safely**: preinstalled junk apps, telemetry, ad
 - **Plain, readable PowerShell.** No .exe and no downloads in the background. Read every line before you run it.
 - **Windows Update control.** Stop automatic updates, or block them completely. These are opt-in, under *Advanced*.
 
-> Looking for FPS / gaming tweaks? Those are in the separate **Vanjix FPS Booster** repo. This tool only removes bloat.
+> Looking for FPS / gaming tweaks? Those are in the separate **GAME Booster** repo. This tool only removes bloat.
 
 ---
 
